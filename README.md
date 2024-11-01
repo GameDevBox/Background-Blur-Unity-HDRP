@@ -23,11 +23,11 @@ game-related, sometimes not.
 
 ## Social Media: 
 • [X/Twitter](https://x.com/ArianKhatiban)
-• [Instagram](https://www.instagram.com/arian.khatiban):
-• [LinkedIn](https://www.linkedin.com/in/arian-khatiban-49b30017a/):
-• [Discord Server](https://discord.gg/8hpGqBgXmz):
-• [itch.io](https://cloudtears.itch.io/):
-• [Youtube Subscribe](https://www.youtube.com/channel/UCgXs2PTiL19Rv1qOn1SI7XQ?sub_confirmation=1):
+• [Instagram](https://www.instagram.com/arian.khatiban)
+• [LinkedIn](https://www.linkedin.com/in/arian-khatiban-49b30017a/)
+• [Discord Server](https://discord.gg/8hpGqBgXmz)
+• [itch.io](https://cloudtears.itch.io/)
+• [Youtube Subscribe](https://www.youtube.com/channel/UCgXs2PTiL19Rv1qOn1SI7XQ?sub_confirmation=1)
 
 
 
