@@ -5,7 +5,7 @@ Simple Fullscreen shader for Background Blur HDRP
 
 
 ## HOW TO:
-• Download UI Blur Shader
+• Download UI Blur Shader Graph
 • Create a material from this shader
 • Add the material to the fullscreen CustomPass
 
