@@ -1,5 +1,6 @@
 # Background-Blur-Unity-HDRP
 [![Unity Pipeline Support (HDRP)](https://img.shields.io/badge/HDRP_✔️-darkred?logo=unity)](https://unity3d.com/get-unity/download)
+
 Simple Fullscreen shader for Background Blur HDRP
 
 
